@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Blueprint: Touch-friendly Product Grid Layout with Filter Functionality
 
 A responsive product grid layout with touch-friendly Flickity galleries and Isotope-powered filter functionality.
@@ -48,3 +49,7 @@ Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.face
 [© Codrops 2015](http://www.codrops.com)
 
 
+=======
+# lojadaclaudia
+Exemplo de projeto com visualização simples de produtos em HTML5.
+>>>>>>> 12c4149f4a6b16165a91d90716910b041c9ce60d
